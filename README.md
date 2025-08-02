@@ -5,7 +5,7 @@
 SkillHire is a modern, AI-simulated job matching platform designed to help users upload resumes, extract skills, and get matched with jobs based on compatibility. Built with clean HTML, CSS, and JavaScript, SkillHire delivers a smooth, professional experience simulating the capabilities of an AI-driven career tool.
 
 ---
-![SkillHire Banner](./banner.png)
+![SkillHire Banner](./Banner.png)
 
 ## 🌟 Key Features
 
@@ -48,6 +48,7 @@ SkillHire is a modern, AI-simulated job matching platform designed to help users
 - Smooth UI transitions
 
 ---
+![SkillHire Banner](./banner.png)
 
 ## 🛠️ Tech Stack
 
