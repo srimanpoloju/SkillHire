@@ -64,10 +64,10 @@ SkillHire is a modern, AI-simulated job matching platform designed to help users
 
 ## 🚀 Getting Started
 
-1. **Click on the link below**
-```bash
-git  https://srimanpoloju.github.io/SkillHire-AI-Smart-Job-Matching-Platform/
-cd SkillHire
+**This is a demo of my working model**
+
+**Live Demo:** [Click here to see the working model](https://srimanpoloju.github.io/SkillHire-AI-Smart-Job-Matching-Platform/)
+
 
 Upload a sample resume
 Watch the skills appear and get matched to top jobs instantly!
