@@ -66,7 +66,7 @@ SkillHire is a modern, AI-simulated job matching platform designed to help users
 
 1. **Click on the link below**
 ```bash
-git  https://github.com/your-username/SkillHire.git
+git  https://srimanpoloju.github.io/SkillHire-AI-Smart-Job-Matching-Platform/
 cd SkillHire
 
 Upload a sample resume
